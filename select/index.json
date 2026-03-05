@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "燦さん星",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-03-05T18:46:45.328440Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "燦さん星",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_燦さん星_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "燦さん星",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_燦さん星_ONE_OK_ROCK.txt"
+    }
+  ]
+}
